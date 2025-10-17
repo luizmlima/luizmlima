@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Luiz Anselmo Lima
+# 👋 Hello, I'm Luiz Lima
 
 💻 Computer Science student (UFCG) fluent in English, with experience in software development, AI automation, and administrative workflows. Recognized in national scientific olympiads, with interests in cybersecurity and emerging technologies. Familiar with Linux, Google tools, and programming languages such as Python and C#. Seeking an internship in software development or technology to apply knowledge and contribute to innovative solutions.
 
@@ -37,6 +37,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizmlima&theme=radical)
 
 ![GitHub Snake](https://github-readme-activity-graph.vercel.app/graph?username=luizmlima&theme=radical&hide_border=true)
+
+![GitHub Snake](https://activity-graph.herokuapp.com/graph?username=luizmlima&theme=react-dark)
 
 ---
 
