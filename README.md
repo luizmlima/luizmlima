@@ -36,7 +36,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizmlima&theme=radical)
 
-![GitHub Snake](https://github-readme-activity-graph.vercel.app/graph?username=luizmlima&theme=radical&hide_border=true)
+![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=luizmlima&theme=radical&hide_border=true)
 
 ![GitHub Snake](https://activity-graph.herokuapp.com/graph?username=luizmlima&theme=react-dark)
 
