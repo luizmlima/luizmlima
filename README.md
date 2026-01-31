@@ -42,7 +42,7 @@ The program focused on advanced topics in Machine Learning and Deep Learning, in
 | :--- | :--- | :--- | :---: |
 | **Multivariate Forecasting** | MEISSA Final Project using PatchTST and AutoML for macroeconomic data. | ![Forecast](meissa-final-project/images/forecast_comparison.webp) | [Colab](https://colab.research.google.com/drive/1rvBuTzLreWZRVuPZY21feZyRzSRjbnjL?usp=sharing) |
 | **Image Colorization with AI** | Transfer Learning (ResNet-18) to automatically colorize B&W images. | ![Colorizer](image-colorizer/images/results_1.webp) | [Colab](https://colab.research.google.com/drive/1hPsYoZWplHMVlC-cz5Zvc5S1AdSLiccG?usp=sharing) |
-| **Fraud Detection** | MLP Neural Network with data balancing for financial transactions. | ![Fraud](fraud-detector/images/confusion_matrix.webp) | [Colab](https://colab.research.google.com/drive/11C-PB-Q92Gab76IpZiazKLAH0N6ExkS8?usp=sharing) |
+| **Fraud Detection** | MLP Neural Network with data balancing for financial transactions. | ![Fraud](fraud-detector---Credit-Card-Fraud-Detection/images/confusion_matrix.webp) | [Colab](https://colab.research.google.com/drive/11C-PB-Q92Gab76IpZiazKLAH0N6ExkS8?usp=sharing) |
 | **PatchTST Benchmark** | Systematic evaluation of Transformers on multiple temporal datasets. | ![Benchmark](time-series-benchmark/images/benchmark_plots.webp) | [Colab](https://colab.research.google.com/drive/1-QPs1aaw5B_Gob9sCWKModMMjxy7s5Qr?usp=sharing) |
 | **Transportation Demand** | Comparison between N-BEATS and statistical models for vehicle trip volume. | ![Transport](vehicle-trips-forecast/images/forecast_results.webp) | [Colab](https://colab.research.google.com/drive/1D1GbAcFUoKX_zlqxpsWBzHcYZfruL3Zt?usp=sharing) |
 
