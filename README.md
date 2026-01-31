@@ -60,10 +60,6 @@ The program focused on advanced topics in Machine Learning and Deep Learning, in
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmlima&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizmlima&theme=radical)
-
-![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=luizmlima&theme=radical&hide_border=true)
-
 ---
 
 ## 📫 Contact
