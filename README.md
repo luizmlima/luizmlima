@@ -57,9 +57,6 @@ The program focused on advanced topics in Machine Learning and Deep Learning, in
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizmlima&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmlima&layout=compact&theme=radical)
 
 ---
