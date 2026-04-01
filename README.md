@@ -48,12 +48,6 @@ The program focused on advanced topics in Machine Learning and Deep Learning, in
 - **[Yaang](https://github.com/Dans1997/Yaang)**: 2D memory game, 3rd place at Jamingtons 9.0 Game Jam.
 - **[jogo_da_velha.py](https://github.com/luizmlima/jogo_da_velha.py)**: Tic-tac-toe game with PvP and PvE modes in Python.
 - **[Invoice Reading with AI](https://github.com/luizmlima/Leitura-de-Notas-ligadas-a-Planilha-com-IA)**: Automated invoice reading and linking to spreadsheets.
-
----
-
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmlima&layout=compact&theme=radical)
-
 ---
 
 ## 📫 Contact
