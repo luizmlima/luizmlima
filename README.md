@@ -21,6 +21,7 @@ I also built a **JMH microbenchmark** to compare both implementations and valida
 The contribution was reviewed, approved, and merged into the official Apache Lucene codebase.
 
 🔗 **[Apache Lucene PR #16416](https://github.com/apache/lucene/pull/16416)**
+
 📂 **[Open Source Optimization Project](https://github.com/luizmlima/Optimization-of-open-source-projects)**
 
 ---
